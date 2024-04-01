@@ -2,7 +2,6 @@
 @import 'abstract/variables';
 
 // Vendors
-@import 'vendors/bootstrap';
 
 // Base
 @import 'base/reset';
@@ -10,7 +9,8 @@
 
 // Layout
 @import 'layout/header';
-@import 'layout/form-login';
+@import 'layout/section';
+@import 'layout/article';
 
 // Components
 @import 'components/buttons';

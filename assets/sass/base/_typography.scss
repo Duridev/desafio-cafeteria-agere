@@ -1,11 +1,12 @@
-* {
-    font-family: "PT Mono", monospace;
-    font-weight: 400; //regular
+
+.pt-mono-regular {
+    font-family: $font-pt-mono;
+    font-weight: $fw-regular;
     font-style: normal;
   }
 
   .roboto-light {
-    font-family: "Roboto", sans-serif;
-    font-weight: 300;
+    font-family: $font-roboto;
+    font-weight: $fw-light;
     font-style: normal;
   }
